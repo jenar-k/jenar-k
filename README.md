@@ -23,13 +23,14 @@ I have **5 years of professional experience** in software testing, both **manual
 
 ---
 
-### 📊 GitHub Stats & Languages
+<!-- ### 📊 GitHub Stats & Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jenar-k&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenar-k&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+-->
 ---
 
 ### 🏷️ Badges
@@ -68,6 +69,6 @@ I have **5 years of professional experience** in software testing, both **manual
 ### 🧠 Tech in Action
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Tech GIF">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="400" alt="Tech GIF">
 </p>
 
