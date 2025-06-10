@@ -54,7 +54,7 @@ I have **5 years of professional experience** in software testing, both **manual
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=jenar-k&show_icons=true&theme=tokyonight" alt="GitHub stats" height="200"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenar-k&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenar-k&layout=compact&theme=light" alt="Top Languages" height="200"/>
 </p>
 
 <p align="center">
