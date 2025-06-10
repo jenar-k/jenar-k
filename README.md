@@ -1,7 +1,8 @@
-<h1 align="center">Hi there, I'm Jenar Kuswidiardi 👋</h1>
+<h1 align="center">👋 Hi there, I'm Jenar Kuswidiardi 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=QA+Engineer+%7C+Automation+Tester;Manual+and+Automated+Testing;API+Testing+%7C+Database+Validation" alt="Typing SVG" />
+  <br> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Tech GIF">
 </p>
 
 ---
@@ -47,7 +48,7 @@ I have **5 years of professional experience** in software testing, both **manual
 
 - 📧 Email: [jenarkuswidiardi@gmail.com](mailto:jenarkuswidiardi@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/jenar-kuswidiardi](https://www.linkedin.com/in/jenar-kuswidiardi/)
-- 🌐 Portfolio: [linktr.ee/jenar_k](https://linktr.ee/jenar_k)
+- 🌐 Portfolio: [All of My Portfolio](https://linktr.ee/jenar_k)
 
 ---
 
@@ -67,9 +68,10 @@ I have **5 years of professional experience** in software testing, both **manual
 
 ---
 
+<!--
 ### 🧠 Tech in Action
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Tech GIF">
 </p>
-
+-->
