@@ -1,8 +1,8 @@
-<!-- Header dengan banner QA di bagian atas -->
+<!-- Header dengan banner QA di bagian atas 
 <p align="center">
   <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300" alt="QA Banner" width="100%" height="30%" />
 </p>
-
+-->
 <h1 align="center">👋 Hi there, I'm Jenar Kuswidiardi 👋</h1>
 
 <p align="center">
