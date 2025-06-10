@@ -1,3 +1,8 @@
+<!-- Header dengan banner QA di bagian atas -->
+<p align="center">
+  <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300" alt="QA Banner" width="100%" height="30%" />
+</p>
+
 <h1 align="center">👋 Hi there, I'm Jenar Kuswidiardi 👋</h1>
 
 <p align="center">
@@ -10,6 +15,25 @@
 
 Hello! My name is **Jenar Kuswidiardi**  
 I have **5 years of professional experience** in software testing, both **manual and automation testing**. I also specialize in **API testing** and **validation in database testing**. Passionate about improving test processes and quality through smart automation.
+
+🤝 Connect with Me
+<p align="left">
+  <a href="mailto:jenarkuswidiardi@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="25" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/6281234567890" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="25" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jenar-kuswidiardi/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/nama_akunmu/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="25" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
