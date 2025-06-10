@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jenar Kuswidiardi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=QA+Engineer+%7C+Automation+Tester;Experienced+in+Manual+and+Automated+Testing;API+Testing+%7C+Database+Validation;Dark+Theme+Lover+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=QA+Engineer+%7C+Automation+Tester;Manual+and+Automated+Testing;API+Testing+%7C+Database+Validation;Dark+Theme+Lover+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
