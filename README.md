@@ -47,20 +47,15 @@ I have **5 years of professional experience** in software testing, both **manual
 - 🧪 [QATest-Skyshi](https://github.com/jenar-k/QATest-Skyshi): QA test case automation study
 - 🔬 [swaglab](https://github.com/jenar-k/swaglab): Automation for Swag Labs site
 
-<!--
+
 ---
 
  ### 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenar-k&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenar-k&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jenar-k&show_icons=true&theme=tokyonight" alt="GitHub stats" height="200"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenar-k&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </p>
-
--->
----
-
-### 🏷️ Badges
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/jenar-k?label=GitHub%20Followers&style=social" alt="GitHub followers" />
@@ -68,7 +63,6 @@ I have **5 years of professional experience** in software testing, both **manual
 </p>
 
 ---
-
 ### 📫 Let's Connect!
 
 - 📧 Email: [jenarkuswidiardi@gmail.com](mailto:jenarkuswidiardi@gmail.com)
