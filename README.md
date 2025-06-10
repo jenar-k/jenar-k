@@ -1,9 +1,10 @@
-<!-- Header dengan banner QA di bagian atas -->
+<!-- Header dengan banner QA di bagian atas
 
 <p align="center">
   <img src="https://img.freepik.com/free-vector/flat-design-science-research-twitch-banner_23-2150823775.jpg?t=st=1749547799~exp=1749551399~hmac=fc0a0ca4ac0ac7641bb6ce8c304a480b43dd50b68437918a2ebff718909b212d&w=1380" alt="QA Banner" width="100%" >
 </p>
-  
+ -->
+ 
 <h1 align="center">👋 Hi there, I'm Jenar Kuswidiardi 👋</h1>
 
 <p align="center">
