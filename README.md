@@ -21,9 +21,10 @@ I have **5 years of professional experience** in software testing, both **manual
 - 🧪 [QATest-Skyshi](https://github.com/jenar-k/QATest-Skyshi): QA test case automation study
 - 🔬 [swaglab](https://github.com/jenar-k/swaglab): Automation for Swag Labs site
 
+<!--
 ---
 
-<!-- ### 📊 GitHub Stats & Languages
+ ### 📊 GitHub Stats & Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jenar-k&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -69,6 +70,6 @@ I have **5 years of professional experience** in software testing, both **manual
 ### 🧠 Tech in Action
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="400" alt="Tech GIF">
+  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="400" alt="Tech GIF">
 </p>
 
