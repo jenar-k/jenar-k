@@ -32,7 +32,7 @@ I have **5 years of professional experience** in software testing, both **manual
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/nama_akunmu/" target="_blank">
+  <a href="https://www.instagram.com/jenar.k/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="25" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
