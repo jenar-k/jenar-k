@@ -24,7 +24,7 @@ I have **5 years of professional experience** in software testing, both **manual
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="25" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/6281234567890" target="_blank">
+  <a href="https://wa.me/6282226733843" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="25" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;
