@@ -35,6 +35,14 @@ I have **5 years of professional experience** in software testing, both **manual
   <a href="https://www.instagram.com/nama_akunmu/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="25" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
+    <a href="https://jenark.wixsite.com/jenar" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" width="25" alt="Website" />
+  </a>
+  &nbsp;&nbsp;
+    <a href="https://linktr.ee/jenar_k" target="_blank">
+    <img src="https://img.icons8.com/color/48/folder-invoices--v1.png" width="25" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -45,7 +53,7 @@ I have **5 years of professional experience** in software testing, both **manual
 - 🛠️ [QA-Bootcamp](https://github.com/jenar-k/QA-Bootcamp): Learning journal during my QA bootcamp journey
 - 🤖 [POM-RobotFW](https://github.com/jenar-k/POM-RobotFW): Page Object Model in Robot Framework
 - 🧪 [QATest-Skyshi](https://github.com/jenar-k/QATest-Skyshi): QA test case automation study
-- 🔬 [swaglab](https://github.com/jenar-k/swaglab): Automation for Swag Labs site
+- 🔬 [Swaglab](https://github.com/jenar-k/swaglab): Automation for Swag Labs site
 
 
 ---
@@ -67,7 +75,8 @@ I have **5 years of professional experience** in software testing, both **manual
 
 - 📧 Email: [jenarkuswidiardi@gmail.com](mailto:jenarkuswidiardi@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/jenar-kuswidiardi](https://www.linkedin.com/in/jenar-kuswidiardi/)
-- 🌐 Portfolio: [All of My Portfolio](https://linktr.ee/jenar_k)
+- 🌐 Portfolio: [my website](https://jenark.wixsite.com/jenar)
+- 🗂️ Portfolio: [Portfolio Link](https://linktr.ee/jenar_k)
 
 ---
 
