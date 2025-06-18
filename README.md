@@ -75,7 +75,7 @@ I have **5 years of professional experience** in software testing, both **manual
 
 - 📧 Email: [jenarkuswidiardi@gmail.com](mailto:jenarkuswidiardi@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/jenar-kuswidiardi](https://www.linkedin.com/in/jenar-kuswidiardi/)
-- 🌐 Portfolio: [my website](https://jenark.wixsite.com/jenar)
+- 🌐 My Website: [my website](https://jenark.wixsite.com/jenar)
 - 🗂️ Portfolio: [Portfolio Link](https://linktr.ee/jenar_k)
 
 ---
